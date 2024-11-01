@@ -1,0 +1,147 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: timeline-simple-Elementor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-26 09:48+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-5.8.2\n"
+"X-Domain: timeline-simple-Elementor"
+
+#. 1: Plugin name 2: Elementor
+#: timeline-simple-Elementor.php:241
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#. 1: Plugin name 2: Elementor 3: Required Elementor version
+#. 1: Plugin name 2: PHP 3: Required PHP version
+#: timeline-simple-Elementor.php:265 timeline-simple-Elementor.php:290
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: widgets/timelinemotekef.php:228
+msgid "Background color of the year"
+msgstr ""
+
+#: widgets/timelinemotekef.php:155 widgets/timelinemotekef.php:186
+msgid "Center"
+msgstr ""
+
+#: widgets/timelinemotekef.php:244
+msgid "Circle color 1"
+msgstr ""
+
+#: widgets/timelinemotekef.php:260
+msgid "Circle color 2"
+msgstr ""
+
+#: widgets/timelinemotekef.php:64
+msgid "Create a list"
+msgstr ""
+
+#: widgets/timelinemotekef.php:56
+msgid "Description "
+msgstr ""
+
+#: widgets/timelinemotekef.php:147
+msgid "Description Alignment"
+msgstr ""
+
+#: widgets/timelinemotekef.php:130
+msgid "description color "
+msgstr ""
+
+#: widgets/timelinemotekef.php:97
+msgid "Description font settings"
+msgstr ""
+
+#: timeline-simple-Elementor.php:243 timeline-simple-Elementor.php:267
+msgid "Elementor"
+msgstr ""
+
+#: timeline-simple-Elementor.php:266 timeline-simple-Elementor.php:291
+msgid "Elementor Test Extension"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://motekef.ir"
+msgstr ""
+
+#: widgets/timelinemotekef.php:163 widgets/timelinemotekef.php:194
+msgid "Justified"
+msgstr ""
+
+#: widgets/timelinemotekef.php:151 widgets/timelinemotekef.php:182
+msgid "Left"
+msgstr ""
+
+#. Author of the plugin
+msgid "Motekef"
+msgstr ""
+
+#: timeline-simple-Elementor.php:242
+msgid "Motekef-Elementor"
+msgstr ""
+
+#: widgets/timelinemotekef.php:159 widgets/timelinemotekef.php:190
+msgid "Right"
+msgstr ""
+
+#: timeline-simple-Elementor.php:314 widgets/timelinemotekef.php:16
+msgid "time line"
+msgstr ""
+
+#. Name of the plugin
+msgid "timeline-simple-Elementor"
+msgstr ""
+
+#. Description of the plugin
+msgid "timeline-simple-Elementor extension for Elementor"
+msgstr ""
+
+#: widgets/timelinemotekef.php:39
+msgid "title "
+msgstr ""
+
+#: widgets/timelinemotekef.php:178
+msgid "Title alignment"
+msgstr ""
+
+#: widgets/timelinemotekef.php:115
+msgid "title color"
+msgstr ""
+
+#: widgets/timelinemotekef.php:88
+msgid "Title font settings"
+msgstr ""
+
+#: widgets/timelinemotekef.php:31
+msgid "Widget management"
+msgstr ""
+
+#: widgets/timelinemotekef.php:80
+msgid "Widget style "
+msgstr ""
+
+#: widgets/timelinemotekef.php:47
+msgid "year"
+msgstr ""
+
+#: widgets/timelinemotekef.php:211
+msgid "year color"
+msgstr ""
+
+#: widgets/timelinemotekef.php:106
+msgid "Year font settings "
+msgstr ""
